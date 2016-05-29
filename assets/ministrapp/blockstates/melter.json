@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "ministrapp:melter", "y": 180 },
+		"facing=north": { "model": "ministrapp:melter", "y": 0 },
+		"facing=west": { "model": "ministrapp:melter", "y": 270 },
+		"facing=east": { "model": "ministrapp:melter", "y": 90 }
+    }
+}
